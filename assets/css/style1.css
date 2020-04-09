@@ -70,10 +70,10 @@ dd {margin: 0 0 12px 0; display: flex;}
 */
 .price {
     order: 2;
-    
+     color: firebrick;
     padding-left: 10px;
    font-size: large;
-    color: firebrick;
+   
 }
 
 address {padding: 10px;}
